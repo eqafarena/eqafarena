@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent?labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felvis-qafarena-72ba41275%2F)
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felvis-qafarena-72ba41275%2F)
 
 
 ### Github Stats
